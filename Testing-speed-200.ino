@@ -1,3 +1,6 @@
+//Kp = 6.28 Kd = 106.76 voltage = 10.51 V pwm = 200 
+
+
 const double Kp = 6.28;   // Kp value that you have to change
 const double Kd = 106.76;   // Kd value that you have to change
 const int setPoint = 35;    // Middle point of sensor array
